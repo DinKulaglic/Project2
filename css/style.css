@@ -1,0 +1,54 @@
+body{
+    margin:0;
+    font-family: 'Roboto', sans-serif;
+    background: rgb(115, 150, 179);
+}
+
+.link{
+    color: black;
+}
+
+a{
+    text-decoration: none; /*brise underline  */
+    color: whitesmoke;
+}
+
+.title{
+
+    color:whitesmoke;
+    font-size: 30px;
+    width:100%;
+    background: blue;
+    
+}
+
+.header{
+
+    background:url("https://i.pinimg.com/originals/51/95/eb/5195ebb8c5f9772deda82aa2937134d3.jpg");
+    background-size:cover;
+    color:whitesmoke;
+}
+
+.basic-info{
+
+    margin:5px;
+    border:5px solid black;
+
+}
+
+.basic-info-picture{
+
+    display: flex;
+    justify-content: center;
+    
+}
+
+.basic-details{
+
+    
+    text-align: center;
+}
+
+li{
+    list-style: none;
+}
